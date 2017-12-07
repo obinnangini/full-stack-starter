@@ -1,3 +1,3 @@
 # Full stack starter
 
-Spring Boot + ReactJS project setup.
+Spring Boot + UI project setup.
