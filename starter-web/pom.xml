@@ -31,7 +31,7 @@
             </goals>
             <phase>initialize</phase>
             <configuration>
-              <executable>yarn</executable>
+              <executable>npm</executable>
               <arguments>
                 <argument>install</argument>
               </arguments>
@@ -44,7 +44,7 @@
             </goals>
             <phase>compile</phase>
             <configuration>
-              <executable>yarn</executable>
+              <executable>npm</executable>
               <arguments>
                 <argument>run</argument>
                 <argument>build</argument>
